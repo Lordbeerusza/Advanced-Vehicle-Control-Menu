@@ -32,7 +32,7 @@ Enjoy using **Standalone-Vehicle-Control-menu**, if you have an issues, [create 
 
 Here a video showcasing the script in action!
 
-- [auto repair!](https://www.youtube.com/watch?v=JknA-qz86Ko)
+- [Standalone Vehicle Control menu!](https://www.youtube.com/watch?v=JknA-qz86Ko)
 
 <br>
 <br>
